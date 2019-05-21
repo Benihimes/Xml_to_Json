@@ -1,0 +1,5 @@
+org\test\Eduard\MultipleElementsFileTest.class
+org\test\Eduard\CucumberRunnerTest.class
+org\test\Eduard\OneElementFileTest.class
+org\test\Eduard\ParserTest.class
+org\test\Eduard\InvalidFileTest.class

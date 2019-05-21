@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38e443d3-77bf-498f-81b6-0b55c8b2f4d8" name="Default Changelist" comment="" />
+    <list default="true" id="38e443d3-77bf-498f-81b6-0b55c8b2f4d8" name="Default Changelist" comment="21.05.2019">
+      <change afterPath="$PROJECT_DIR$/json/Case1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/Case2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/Case3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/Eduard/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/Eduard/XmlModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/json/output1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/json/output2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xml/Case1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/Eduard/CucumberRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/Eduard/InvalidFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/Eduard/MultipleElementsFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/Eduard/OneElementFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/Eduard/ParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Проверка xml с множеством элементов.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Проверка xml с одним элементом.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Проверка некорректного xml.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/Java/XmlToJsonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XmlModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XmlToJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/XmlModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/XmlToJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/XmlToJsonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Case1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Case2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/xml/Case2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Case3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/xml/Case3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/testxml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/xml/testxml.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,43 +45,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/InvalidFileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tests/XmlToJsonTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/OneElementFileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Parser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/XmlModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/XmlToJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="391">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,19 +68,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/Case1">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.11.0/allure-java-commons-2.11.0.jar!/io/qameta/allure/Allure.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="183">
+              <caret line="184" column="62" selection-start-line="184" selection-start-column="23" selection-end-line="184" selection-end-column="62" />
+              <folding>
+                <element signature="e#5641#5642#0" expanded="true" />
+                <element signature="e#5685#5686#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/Case3.xml">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.11.0/allure-java-commons-2.11.0.jar!/io/qameta/allure/Attachment.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/ParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -82,49 +117,63 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/XMLStruct.java" />
-        <option value="$PROJECT_DIR$/src/m.java" />
-        <option value="$PROJECT_DIR$/src/Company.java" />
-        <option value="$PROJECT_DIR$/xml files/company.xml" />
-        <option value="$PROJECT_DIR$/src/Employee.java" />
-        <option value="$PROJECT_DIR$/src/myClass.java" />
-        <option value="$PROJECT_DIR$/xml/users.xml" />
-        <option value="$PROJECT_DIR$/src/JavaXMLReadDOM.java" />
-        <option value="$PROJECT_DIR$/src/XMLtoJSON.java" />
-        <option value="$PROJECT_DIR$/xml/continents.xml" />
-        <option value="$PROJECT_DIR$/src/ReadXMLFileDomExample.java" />
-        <option value="$PROJECT_DIR$/src/Parse.java" />
-        <option value="$PROJECT_DIR$/xml/OneElement.xml" />
-        <option value="$PROJECT_DIR$/Tests/ParseXMLTest.java" />
-        <option value="$PROJECT_DIR$/src/ParseXML.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/DomParserFactory.java" />
-        <option value="$PROJECT_DIR$/src/ParserFactory.java" />
-        <option value="$PROJECT_DIR$/src/SaxParserFactory.java" />
-        <option value="$PROJECT_DIR$/src/SaxParser.java" />
-        <option value="$PROJECT_DIR$/src/XmlElement.java" />
-        <option value="$PROJECT_DIR$/src/XmlModel.java" />
-        <option value="$PROJECT_DIR$/src/Parser.java" />
-        <option value="$PROJECT_DIR$/src/DomParser.java" />
-        <option value="$PROJECT_DIR$/src/XmlToJson.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/xml/testxml.xml" />
-        <option value="$PROJECT_DIR$/json/test.json" />
-        <option value="$PROJECT_DIR$/src/main/java/controller/parser/parserFactory/SaxParserFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/controller/parser/SaxParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/XmlElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DomParser.java" />
-        <option value="$PROJECT_DIR$/xml/Case1" />
         <option value="$PROJECT_DIR$/xml/Case2.xml" />
         <option value="$PROJECT_DIR$/xml/Case3.xml" />
         <option value="$PROJECT_DIR$/src/main/java/XmlElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Parser.java" />
+        <option value="$PROJECT_DIR$/Tests/XmlToJsonTest.java" />
+        <option value="$PROJECT_DIR$/Tests/resources/features/Конвертор.feature" />
+        <option value="$PROJECT_DIR$/Tests/CucumberTest.java" />
+        <option value="$PROJECT_DIR$/Tests/CucumberRunnerTest.java" />
+        <option value="$PROJECT_DIR$/Tests/Steps.java" />
+        <option value="$PROJECT_DIR$/Tests/TestingSteps.java" />
+        <option value="$PROJECT_DIR$/features/Steps/parsing.java" />
+        <option value="$PROJECT_DIR$/features/Steps/Parsing.java" />
+        <option value="$PROJECT_DIR$/Tests/steps/RunnerTest.java" />
+        <option value="$PROJECT_DIR$/features/xmltojson.feature" />
+        <option value="$PROJECT_DIR$/features/Steps/RunnerTest.java" />
+        <option value="$PROJECT_DIR$/resources/features/Steps/RunnerTest.java" />
+        <option value="$PROJECT_DIR$/resources/json/Case1.json" />
+        <option value="$PROJECT_DIR$/resources/json/Case2.json" />
+        <option value="$PROJECT_DIR$/resources/json/Case3.json" />
+        <option value="$PROJECT_DIR$/Tests/Steps/Parsing.java" />
+        <option value="$PROJECT_DIR$/resources/features/xmltojson.feature" />
+        <option value="$PROJECT_DIR$/Tests/testRunners/RunnerTest.java" />
+        <option value="$PROJECT_DIR$/Tests/resources/features/xmltojson.feature" />
+        <option value="$PROJECT_DIR$/Tests/Java/testRunners/RunnerTest.java" />
+        <option value="$PROJECT_DIR$/Tests/Java/step_defenitions/Parsing.java" />
+        <option value="$PROJECT_DIR$/src/Tests/resources/features/xmltojson.feature" />
+        <option value="$PROJECT_DIR$/src/Tests/resources/features/Проверка xml с множеством элементов.feature" />
         <option value="$PROJECT_DIR$/src/main/java/XmlModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/XmlToJson.java" />
-        <option value="$PROJECT_DIR$/Tests/XmlToJsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Parser.java" />
+        <option value="$PROJECT_DIR$/src/Tests/Java/XmlToJsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/xml/Case1" />
+        <option value="$PROJECT_DIR$/src/Tests/Java/ParserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/xml/Case1.xml" />
+        <option value="$PROJECT_DIR$/src/Tests/resources/features/Проверка некорректного xml.feature" />
+        <option value="$PROJECT_DIR$/src/Tests/Java/InvalidFileTest.java" />
+        <option value="$PROJECT_DIR$/src/Tests/Java/CucumberRunnerTest.java" />
+        <option value="$PROJECT_DIR$/src/Tests/Java/MultipleElementsFileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/json/output2.json" />
+        <option value="$PROJECT_DIR$/src/main/json/output1.json" />
+        <option value="$PROJECT_DIR$/src/Tests/resources/features/Проверка xml с одним элементом.feature" />
+        <option value="$PROJECT_DIR$/src/Tests/Java/OneElementFileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/xml/Case2.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/test/Eduard/CucumberRunnerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Проверка некорректного xml.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/org/test/Eduard/InvalidFileTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Проверка xml с одним элементом.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Проверка xml с множеством элементов.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/org/test/Eduard/MultipleElementsFileTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/test/Eduard/ParserTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/test/Eduard/OneElementFileTest.java" />
       </list>
     </option>
   </component>
@@ -153,10 +202,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="426" />
-    <option name="y" value="333" />
-    <option name="width" value="1497" />
-    <option name="height" value="864" />
+    <option name="x" value="530" />
+    <option name="width" value="1397" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -186,17 +237,43 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Eduard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,18 +290,27 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558021202570" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project_XML_to_JSON-master" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558437474976" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/xml/Case1.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/xml/Case1.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.test" />
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\borisovev\IdeaProjects\git_test\test\src\test\java\org\test\Eduard" />
+      <recent name="C:\Users\borisovev\IdeaProjects\git_test\test\src\main" />
+      <recent name="C:\Users\borisovev\IdeaProjects\git_test\test\src\Tests\Java" />
+      <recent name="C:\Users\borisovev\IdeaProjects\git_test\test\src" />
+      <recent name="C:\Users\borisovev\IdeaProjects\git_test\test\Tests\Java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -239,56 +325,98 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.XmlToJsonTest.xmlToJsonTest">
-    <configuration name="ParseXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParseXML" />
+  <component name="RunManager" selected="JUnit.ParserTest">
+    <configuration name="Feature: Проверка некорректного xml" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Проверка некорректного xml.feature" />
+      <option name="GLUE" value="org.test.Eduard" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Проверка некорректного xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XmlToJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XmlToJson" />
+    <configuration name="Feature: Проверка xml с одним элементом" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Проверка xml с одним элементом.feature" />
+      <option name="GLUE" value="org.test.Eduard" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Проверка xml с одним элементом" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParseXMLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: Проверка xml с множеством элементов" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Проверка xml с множеством элементов.feature" />
+      <option name="GLUE" value="org.test.Eduard" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParseXMLTest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Проверка xml с множеством элементов" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.test.Eduard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.test.Eduard" />
+      <option name="MAIN_CLASS_NAME" value="org.test.Eduard.ParserTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XmlToJsonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="java in test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="XmlToJsonTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XmlToJsonTest.xmlToJsonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="XmlToJsonTest" />
-      <option name="METHOD_NAME" value="xmlToJsonTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="JUnit.java in test" />
+      <item itemvalue="Cucumber java.Feature: Проверка xml с множеством элементов" />
+      <item itemvalue="Cucumber java.Feature: Проверка некорректного xml" />
+      <item itemvalue="Cucumber java.Feature: Проверка xml с одним элементом" />
+      <item itemvalue="JUnit.ParserTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.XmlToJsonTest.xmlToJsonTest" />
-        <item itemvalue="JUnit.XmlToJsonTest" />
-        <item itemvalue="Application.XmlToJson" />
-        <item itemvalue="Application.ParseXML" />
-        <item itemvalue="JUnit.ParseXMLTest" />
+        <item itemvalue="JUnit.ParserTest" />
+        <item itemvalue="Cucumber java.Feature: Проверка xml с множеством элементов" />
+        <item itemvalue="Cucumber java.Feature: Проверка xml с одним элементом" />
+        <item itemvalue="Cucumber java.Feature: Проверка некорректного xml" />
+        <item itemvalue="JUnit.java in test" />
       </list>
     </recent_temporary>
   </component>
@@ -310,33 +438,60 @@
       <workItem from="1557990313445" duration="16672000" />
       <workItem from="1558013787065" duration="3405000" />
       <workItem from="1558017336423" duration="3882000" />
+      <workItem from="1558338451411" duration="14260000" />
+      <workItem from="1558421290157" duration="5642000" />
+      <workItem from="1558428160570" duration="9384000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ParseXMLTest - 2019.05.16 at 14h 31m 34s.xml">
-      <configuration name="ParseXMLTest" configurationId="JUnit" />
+    <history-entry file="Feature__Проверка_xml_с_одним_элементом - 2019.05.21 at 12h 54m 00s.xml">
+      <configuration name="Feature: Проверка xml с одним элементом" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="XmlToJsonTest - 2019.05.16 at 17h 51m 18s.xml">
-      <configuration name="XmlToJsonTest" configurationId="JUnit" />
+    <history-entry file="Feature__Проверка_xml_с_одним_элементом - 2019.05.21 at 12h 54m 37s.xml">
+      <configuration name="Feature: Проверка xml с одним элементом" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="XmlToJsonTest_xmlToJsonTest - 2019.05.16 at 18h 33m 43s.xml">
-      <configuration name="XmlToJsonTest.xmlToJsonTest" configurationId="JUnit" />
+    <history-entry file="Feature__Проверка_xml_с_одним_элементом - 2019.05.21 at 12h 56m 59s.xml">
+      <configuration name="Feature: Проверка xml с одним элементом" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="XmlToJsonTest_xmlToJsonTest - 2019.05.16 at 18h 34m 37s.xml">
-      <configuration name="XmlToJsonTest.xmlToJsonTest" configurationId="JUnit" />
+    <history-entry file="Feature__Проверка_xml_с_множеством_элементов - 2019.05.21 at 12h 57m 06s.xml">
+      <configuration name="Feature: Проверка xml с множеством элементов" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="XmlToJsonTest_xmlToJsonTest - 2019.05.16 at 18h 40m 05s.xml">
-      <configuration name="XmlToJsonTest.xmlToJsonTest" configurationId="JUnit" />
+    <history-entry file="Feature__Проверка_xml_с_множеством_элементов - 2019.05.21 at 12h 57m 34s.xml">
+      <configuration name="Feature: Проверка xml с множеством элементов" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__Проверка_xml_с_множеством_элементов - 2019.05.21 at 12h 58m 03s.xml">
+      <configuration name="Feature: Проверка xml с множеством элементов" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__Проверка_xml_с_множеством_элементов - 2019.05.21 at 12h 59m 51s.xml">
+      <configuration name="Feature: Проверка xml с множеством элементов" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__Проверка_xml_с_множеством_элементов - 2019.05.21 at 13h 00m 23s.xml">
+      <configuration name="Feature: Проверка xml с множеством элементов" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__Проверка_xml_с_множеством_элементов - 2019.05.21 at 13h 00m 45s.xml">
+      <configuration name="Feature: Проверка xml с множеством элементов" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.05.21 at 13h 02m 18s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48858000" />
+    <option name="totallyTimeSpent" value="78144000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -346,10 +501,41 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30760986" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32985073" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30760986" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -365,174 +551,25 @@
       <window_info anchor="right" id="Maven" order="6" weight="0.32985073" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="21.05.2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.05.2019" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Company.java" />
-    <entry file="file://$PROJECT_DIR$/xml files/company.xml" />
-    <entry file="file://$PROJECT_DIR$/xml/company.xml" />
-    <entry file="file://$PROJECT_DIR$/src/myClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/Employee.java" />
-    <entry file="file://$PROJECT_DIR$/xml/users.xml" />
-    <entry file="file://$PROJECT_DIR$/src/JavaXMLReadDOM.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/com/sun/org/apache/xml/internal/serialize/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20171018/json-20171018.jar!/org/json/XML.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="264" column="29" selection-start-line="264" selection-start-column="29" selection-end-line="264" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/org/w3c/dom/traversal/DocumentTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/org/w3c/dom/traversal/TreeWalker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/xml/validation/Schema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/continents.xml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/xml/parsers/DocumentBuilderFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3516">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/org/w3c/dom/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="495" column="16" selection-start-line="495" selection-start-column="16" selection-end-line="495" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadXMLFileDomExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/Parse.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParseXML.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/SaxParser.java" />
-    <entry file="file://$PROJECT_DIR$/src/SaxParserFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/ParserFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/DomParserFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/XmlElement.java" />
-    <entry file="file://$PROJECT_DIR$/src/XmlModel.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/org/w3c/dom/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Parser.java" />
     <entry file="file://$PROJECT_DIR$/src/DomParser.java" />
     <entry file="file://$PROJECT_DIR$/src/XmlToJson.java" />
-    <entry file="file://$PROJECT_DIR$/Tests/ParseXMLTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/OneElement.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/SaxParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/parserFactory/SaxParserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/testxml.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/parserFactory/DomParserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ParseXMLTest.java" />
+    <entry file="file://$PROJECT_DIR$/json/test.json" />
+    <entry file="file://$PROJECT_DIR$/xml/OneElement.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/SaxParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/parserFactory/SaxParserFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/parserFactory/DomParserFactory.java" />
     <entry file="file://$PROJECT_DIR$/target/classes/XmlToJson.class">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -542,82 +579,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/parserFactory/ParserFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/parser/parserFactory/ParserFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/XmlElement.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DomParser.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/resources/features/Конвертор.feature.txt" />
+    <entry file="file://$PROJECT_DIR$/Tests/CucumberTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Steps.java" />
+    <entry file="file://$PROJECT_DIR$/Tests/CucumberRunnerTest.java" />
+    <entry file="file://$PROJECT_DIR$/Tests/resources/features/Конвертор.feature" />
+    <entry file="file://$PROJECT_DIR$/Tests/TestingSteps.java" />
+    <entry file="file://$PROJECT_DIR$/Tests/steps/RunnerTest" />
+    <entry file="file://$PROJECT_DIR$/json/Case1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/Case2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/Case3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/Java/testRunners/RunnerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/Java/step_defenitions/Parsing.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/resources/features/xmltojson.feature" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/resources/features/Проверка некорректного xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/XmlToJson.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/Java/XmlToJsonTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/xml/Case1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/xml/Case1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/json/output1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/Eduard/XmlModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Case2.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/xml/testxml.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Case1">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/Eduard/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Case3.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/XmlElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DomParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="343">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/XmlToJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/XmlModel.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/CucumberRunnerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/XmlToJsonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Проверка некорректного xml.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/MultipleElementsFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/ParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.11.0/allure-java-commons-2.11.0.jar!/io/qameta/allure/Attachment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/xml/Case2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/json/output2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Проверка xml с одним элементом.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Проверка xml с множеством элементов.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/InvalidFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.11.0/allure-java-commons-2.11.0.jar!/io/qameta/allure/Allure.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="184" column="62" selection-start-line="184" selection-start-column="23" selection-end-line="184" selection-end-column="62" />
+          <folding>
+            <element signature="e#5641#5642#0" expanded="true" />
+            <element signature="e#5685#5686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/xml/Case3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/test/Eduard/OneElementFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
           </folding>
         </state>
       </provider>
